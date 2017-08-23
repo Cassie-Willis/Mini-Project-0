@@ -1,0 +1,12 @@
+Cassie Willis
+ccw5ft
+
+I took Intro to Embedded Systems last semester which was in C using
+the MSP430 microcontroller and I am the lead electrical engineer 
+for the Mechatronics and Robotics Society where I do embedded 
+coding in the SPIN language on Parallax Propeller chips.
+
+I am interested in robotics, embedded programming, and machine
+learning/AI primarily. I hope to get more confident in embedded
+programming and learn some more advanced topics in this course that 
+would prepare me for a job in embedded computing.
