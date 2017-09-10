@@ -1,0 +1,10 @@
+Name: Shabnam Wahed
+Student ID 866316474
+Computing ID: sw2wm
+Programming Language skill: C, C++, MATLAB, x86 Assembly language
+Hardware Interfacing skill: Intel 8085, 8086, 80286, 80386, 80486 Microprocessors
+Projects: Automatic Digital Traffic Signal controller, using Assembly Language implemented on 8085 Microprocessors Kits
+in undergrad level
+Insterests: love travelling, listening to music, reading books
+Take out: Hands-on experience in design and validation of embedded computing systems
+
